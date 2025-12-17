@@ -50,7 +50,7 @@ departamento VARCHAR(30)
 5. **Usa el menú** de consola para gestionar empleados
 
 ### 📊 Operaciones CRUD implementadas
-- **C**rear: `INSERT INTO empleados`
+- **C**reate: `INSERT INTO empleados`
 - **R**ead: `SELECT * FROM empleados`
 - **U**pdate: `UPDATE empleados`
 - **D**elete: `DELETE FROM empleados`
