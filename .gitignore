@@ -1,0 +1,30 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.iws
+*.ipr
+*.iws
+out/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# XAMPP/MySQL dumps
+*.sql.dump
+*.sql.gz
+
+# Dependencies
+lib/
+target/
